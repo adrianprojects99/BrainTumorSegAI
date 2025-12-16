@@ -7,9 +7,6 @@ Sistema de segmentación automática de tumores cerebrales usando arquitectura U
 **Profesor:** Ing. Rangel Isaias Alvarado Walles  
 **Curso:** Inteligencia Artificial  
 
-## 🚀 Demo en Vivo
-[Ver aplicación](https://huggingface.co/spaces/TU-USUARIO/brain-tumor-detection)
-
 ## 📊 Resultados
 - **Dice Coefficient:** 87%
 - **IoU:** 79%
@@ -71,4 +68,5 @@ MIT License
 
 ## 📧 Contacto
 - Adrian Herrera: aherrera@est.ulatina.edu.pa
+
 - Brian Chiru: bchiru@est.ulatina.edu.pa
